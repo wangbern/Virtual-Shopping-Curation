@@ -1,0 +1,1 @@
+import{_ as e}from"./jsx-runtime-C5GUqp_1.js";function t(){let t=e();return(e,n=`forward`,r)=>{let i=document.documentElement;i.dataset.vt=n,r&&(i.style.setProperty(`--vt-x`,`${r.x}px`),i.style.setProperty(`--vt-y`,`${r.y}px`)),t(e,{viewTransition:!0})}}function n(e){let t=e.getBoundingClientRect();return{x:t.left+t.width/2,y:t.top+t.height/2}}export{t as n,n as t};

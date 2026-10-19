@@ -1,0 +1,1 @@
+import{E as e}from"./utils-DrQbUfdI.js";import{o as t,t as n}from"./store-B3GThTSp.js";async function r({request:r}){let i=new URL(r.url).searchParams.get(`as`);if(t()&&!i)throw e(`/`);return{preselect:n.includes(i??``)?i:null}}export{r as clientLoader};

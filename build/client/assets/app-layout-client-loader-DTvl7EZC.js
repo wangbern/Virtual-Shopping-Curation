@@ -1,0 +1,1 @@
+import{E as e}from"./utils-DrQbUfdI.js";import{i as t,u as n}from"./store-B3GThTSp.js";async function r(){if(!t())throw e(`/login`);return n(),null}export{r as clientLoader};
