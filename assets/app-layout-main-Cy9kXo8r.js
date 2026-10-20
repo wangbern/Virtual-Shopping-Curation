@@ -1,1 +1,0 @@
-import{n as e,o as t,t as n}from"./jsx-runtime-C5GUqp_1.js";import"./app-layout-client-loader-DTvl7EZC.js";var r=n(),i=t(function(){return(0,r.jsx)(e,{})});export{i as default};
