@@ -1,1 +1,0 @@
-import{l as e}from"./utils-DrQbUfdI.js";import{i as t}from"./store-L1Ajzid2.js";async function n({params:n}){if(!t()?.closet.some(e=>e.id===n.itemId))throw e(`Item not found`,{status:404});return{itemId:n.itemId}}export{n as clientLoader};

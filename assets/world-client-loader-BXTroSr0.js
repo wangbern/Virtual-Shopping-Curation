@@ -1,1 +1,0 @@
-import{E as e,l as t}from"./utils-DrQbUfdI.js";import{P as n,i as r}from"./store-L1Ajzid2.js";async function i({params:i}){if(!n(i.worldId))throw t(`No such world`,{status:404});if(!r()?.runs[i.worldId])throw e(`/`);return{world:i.worldId}}export{i as clientLoader};
